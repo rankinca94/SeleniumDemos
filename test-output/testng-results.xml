@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2017-12-28T19:13:38Z" name="Default suite" finished-at="2017-12-28T19:13:43Z" duration-ms="5466">
+    <groups>
+    </groups>
+    <test started-at="2017-12-28T19:13:38Z" name="Default test" finished-at="2017-12-28T19:13:43Z" duration-ms="5466">
+      <class name="smoketests.ATagsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:smoketests.ATagsTest@510f3d34]" started-at="2017-12-28T14:13:38Z" name="setUp" finished-at="2017-12-28T14:13:43Z" duration-ms="4629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginElementPresentTest()[pri:0, instance:smoketests.ATagsTest@510f3d34]" started-at="2017-12-28T14:13:43Z" name="loginElementPresentTest" finished-at="2017-12-28T14:13:43Z" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginElementPresentTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:smoketests.ATagsTest@510f3d34]" started-at="2017-12-28T14:13:43Z" name="tearDown" finished-at="2017-12-28T14:13:43Z" duration-ms="654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- smoketests.ATagsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
